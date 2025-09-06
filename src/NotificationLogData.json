@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sg-1",
+    "title": "Server CPU usage high",
+    "subtitle": "us-east-1 / prod-api-01",
+    "time": "2h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Oracle_Logo.svg/200px-Oracle_Logo.svg.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-2",
+    "title": "New deployment completed",
+    "subtitle": "v2.3.7 to production",
+    "time": "4h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/200px-Microsoft_logo.svg.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-3",
+    "title": "Backup succeeded",
+    "subtitle": "database cluster nightly",
+    "time": "1d ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/200px-Google_2015_logo.svg.png",
+    "read": true,
+    "status": "completed"
+  },
+  {
+    "id": "sg-4",
+    "title": "Database connection error",
+    "subtitle": "main-db-cluster / read-replica",
+    "time": "1h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SAP_Logo_2019.svg/200px-SAP_Logo_2019.svg.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-5",
+    "title": "User login failed",
+    "subtitle": "Account locked: user@example.com",
+    "time": "30m ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/200px-IBM_logo.svg.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-6",
+    "title": "Disk space low",
+    "subtitle": "web-server-03 / var/log",
+    "time": "2d ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/200px-Apple_logo_black.svg.png",
+    "read": true,
+    "status": "completed"
+  },
+  {
+    "id": "sg-7",
+    "title": "Scheduled maintenance",
+    "subtitle": "upcoming in 24 hours",
+    "time": "8h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/200px-Netflix_2015_logo.svg.png",
+    "read": true,
+    "status": "completed"
+  },
+  {
+    "id": "sg-8",
+    "title": "New feature flag enabled",
+    "subtitle": "feature-x for all users",
+    "time": "5m ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/200px-Amazon_logo.svg.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-9",
+    "title": "API rate limit exceeded",
+    "subtitle": "User ID 12345",
+    "time": "1h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_2013_Google.png/200px-Logo_2013_Google.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-10",
+    "title": "Security alert",
+    "subtitle": "Suspicious activity detected",
+    "time": "6h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cisco_logo.svg/200px-Cisco_logo.svg.png",
+    "read": true,
+    "status": "completed"
+  },
+  {
+    "id": "sg-11",
+    "title": "Image upload failed",
+    "subtitle": "user-photo-05.jpg",
+    "time": "3h ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/200px-Logo_of_Twitter.svg.png",
+    "read": false,
+    "status": "new"
+  },
+  {
+    "id": "sg-12",
+    "title": "Email queue is full",
+    "subtitle": "over 1000 emails pending",
+    "time": "1d ago",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/200px-Apple_logo_black.svg.png",
+    "read": false,
+    "status": "new"
+  }
+]
